@@ -5,7 +5,7 @@ import React from 'react'
 const App =() => {
   return (
     <>
-<h1>hello react</h1>
+<h1>hello public</h1>
     </>
   );
 }   
